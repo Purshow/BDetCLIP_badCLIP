@@ -25,3 +25,4 @@ transformers
 typing_extensions
 wandb
 wrapt
+keras>=3.11.0 # not directly required, pinned by Snyk to avoid a vulnerability
